@@ -1,6 +1,5 @@
 // Jarrale Butts
-// Febauary 21th 2023 (Turn-In date)
-// Febauary 19th 2023 (Due date)
+// Febauary 19th 2023
 // The purpose of this application is to 
 
 #include <iostream>
